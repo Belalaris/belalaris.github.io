@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on Belalaris&#39; Blog</title>
+    <link>https://belalaris.github.io/tags/papermod/</link>
+    <description>Recent content in PaperMod on Belalaris&#39; Blog</description>
+    <image>
+      <url>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 22:32:26 +0800</lastBuildDate><atom:link href="https://belalaris.github.io/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 博客搭建</title>
+      <link>https://belalaris.github.io/posts/hugo/</link>
+      <pubDate>Wed, 06 Apr 2022 22:32:26 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/posts/hugo/</guid>
+      <description>test for my blog</description>
+    </item>
+    
+  </channel>
+</rss>

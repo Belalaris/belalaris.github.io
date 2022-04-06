@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Belalaris&#39; Blog</title>
+    <link>https://belalaris.github.io/categories/</link>
+    <description>Recent content in Categories on Belalaris&#39; Blog</description>
+    <image>
+      <url>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 23:31:09 +0800</lastBuildDate><atom:link href="https://belalaris.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Construction</title>
+      <link>https://belalaris.github.io/categories/blog-construction/</link>
+      <pubDate>Wed, 06 Apr 2022 23:31:09 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/categories/blog-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://belalaris.github.io/categories/reading/</link>
+      <pubDate>Wed, 06 Apr 2022 22:42:50 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

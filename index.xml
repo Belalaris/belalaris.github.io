@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Belalaris&#39; Blog</title>
+    <link>https://belalaris.github.io/</link>
+    <description>Recent content on Belalaris&#39; Blog</description>
+    <image>
+      <url>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://belalaris.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 23:31:09 +0800</lastBuildDate><atom:link href="https://belalaris.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 博客搭建</title>
+      <link>https://belalaris.github.io/posts/hugo/</link>
+      <pubDate>Wed, 06 Apr 2022 22:32:26 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/posts/hugo/</guid>
+      <description>test for my blog</description>
+    </item>
+    
+    <item>
+      <title>写好一篇博客文章</title>
+      <link>https://belalaris.github.io/posts/how2writegoodblog/</link>
+      <pubDate>Wed, 06 Apr 2022 23:31:09 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/posts/how2writegoodblog/</guid>
+      <description>介绍个人博客现状、博客的选型与搭建、写博客时需要注意的事项、怎样输出有质量的文章</description>
+    </item>
+    
+    <item>
+      <title>《终身成长》 | 卡罗尔·德韦克 [美国]</title>
+      <link>https://belalaris.github.io/posts/text/</link>
+      <pubDate>Wed, 06 Apr 2022 22:42:50 +0800</pubDate>
+      
+      <guid>https://belalaris.github.io/posts/text/</guid>
+      <description>主要介绍了两种思维模式：固定型与成长型，体现了应对成功与失败、成绩与挑战时的两种基本心态，阐述了不同思维对人生的影响</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
